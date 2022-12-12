@@ -1,1 +1,3 @@
-# e-commerce
+# E-commerce-Frontend
+
+It was a little project for the Smoothies Shop of my mom, still in process...
